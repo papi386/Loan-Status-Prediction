@@ -1,4 +1,4 @@
-********Loan Status Prediction******** /n
+********Loan Status Prediction******** <br>
 *****Overview***** /n
 This repository contains a comprehensive data analysis and modeling project aimed at predicting loan statuses using machine learning techniques. The goal is to determine whether a loan will be paid back on time (1) or defaulted (0), helping lenders make informed decisions based on borrower characteristics and loan details./n
 
